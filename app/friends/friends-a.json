@@ -1,0 +1,24 @@
+[
+    {
+        "age": 0, 
+        "id": "itay-katz", 
+        "imageUrl": "img/phones/motorola-charm-with-motoblur.0.jpg", 
+        "name": "Itay Katz", 
+        "snippet": "Motorola CHARM"
+    },
+    {
+        "age": 0, 
+        "id": "avi-ron", 
+        "imageUrl": "img/phones/motorola-atrix-4g.0.jpg", 
+        "name": "Avi Ron", 
+        "snippet": "Fly Away"
+    },
+    {
+        "age": 0, 
+        "id": "eli-kopter", 
+        "imageUrl": "img/phones/samsung-gem.0.jpg", 
+        "name": "Eli Kopter", 
+        "snippet": "Chuku Chuku"
+    }
+
+]

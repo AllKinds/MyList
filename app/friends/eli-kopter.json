@@ -1,0 +1,22 @@
+{
+    
+    "id": "eli-kopter", 
+    "images": [
+        "img/phones/motorola-charm-with-motoblur.0.jpg", 
+        "img/phones/motorola-charm-with-motoblur.1.jpg", 
+        "img/phones/motorola-charm-with-motoblur.2.jpg"
+    ], 
+    "name": "Eli Kopter", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "67.2 mm (w)", 
+            "98.4 mm (h)", 
+            "11.4 mm (d)"
+        ], 
+        "weight": "110.0 grams"
+    }, 
+    "storage": {
+        "flash": "150MB", 
+        "ram": "512MB"
+    }
+}
